@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "402384933599",
+    "project_id": "smart-plumber-connect",
+    "storage_bucket": "smart-plumber-connect.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402384933599:android:5d44ea2fcdd3dd1ea30f6a",
+        "android_client_info": {
+          "package_name": "com.example.smart_plumber_connect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYkcXXOTZmnZ1eq9hFEJx9dDuPMnGn8eM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
